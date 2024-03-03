@@ -1,3 +1,3 @@
 # Kafka_pipeline
 
-![Uploading Screenshot 2024-02-27 at 8.59.57 AM.png…]()
+![image](https://github.com/AnkitDB9/Kafka_pipeline/assets/83556797/219dd323-c43d-443b-9992-0294a7237aee)
